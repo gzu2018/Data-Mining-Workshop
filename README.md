@@ -1,3 +1,5 @@
+# Repository moved to https://github.com/acmutd/Data-Mining-Workshop
+
 # Data-Mining-Workshop
 Welcome to the first workshop of our two part Introduction to Data Science Series hosted by HackUTD!
 
